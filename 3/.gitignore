@@ -10,5 +10,3 @@ output/
 parser.output
 *.png
 *.py
-example_output/
-testing_code/
